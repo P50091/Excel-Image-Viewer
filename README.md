@@ -77,15 +77,15 @@ for i, url in enumerate(urls):
 
 ### Excel 表格
 
-![Excel 表格](\data\excel1.png)
+![Excel 表格](data/excel1.png)
 
 ### 界面 1
 
-![界面 1](\data\view2.png)
+![界面 1](data/view2.png)
 
 ### 界面 2
 
-![界面 2](\data\view3.png)
+![界面 2](data/view3.png)
 
 ## 结论
 
